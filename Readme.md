@@ -36,5 +36,5 @@
 . insominia
 
 
-:. De Rocketseat BLOG - Airbnb.
-Por Diego Fernandes : https://blog.rocketseat.com.br/adonis-auth-jwt-api-rest/
+:. De Rocketseat - Semana Omnistack 9.0.
+Por Diego Fernandes : https://rocketseat.com.br/week-9/aulas
