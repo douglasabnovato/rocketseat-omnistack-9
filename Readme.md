@@ -34,6 +34,9 @@
 - express : definicao de rotas
 - get, post, put, delete
 - insominia
+- app.post('/users', (req,res) => {
+    return res.json({message: "Welcome Omnistack 9.0!!"});
+});
 
-:. De Rocketseat - Semana Omnistack 9.0.
+:. De Rocketseat - Semana Omnistack 9.0.<br>
 Por Diego Fernandes : https://rocketseat.com.br/week-9/aulas
