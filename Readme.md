@@ -16,25 +16,24 @@
 ![Nodejs](/images/nodejs.png)
 ![Rocketseat](/images/logo-rocketseat.png)
 
-30/09 : conhecendo a OmniStack 9.0
-.: descobrir as principais ferramentas do ecossistema e o que nós vamos construir com elas.
-. mockups
-. nodejs with package manage
-. yarn
-. npm
-. vs code: dracula
-. "ver dual boot"
+### 30/09 : conhecendo a OmniStack 9.0
+- .: descobrir as principais ferramentas do ecossistema e o que nós vamos construir com elas.
+- mockups
+- nodejs with package manage
+- yarn
+- npm
+- vs code: dracula
+- "ver dual boot"
 
-01/10 : Criando a base da aplicação
+### 01/10 : Criando a base da aplicação
 .: construir o back-end da sua aplicação: uma API robusta utilizando NodeJS.
-. node src/server.js
-. localhost:3333
-. resposta "welcome omnistack 9.0 !"
-. yarn add nodemon -D
-. express : definicao de rotas
-. get, post, put, delete
-. insominia
-
+- node src/server.js
+- localhost:3333
+- resposta "welcome omnistack 9.0 !"
+- yarn add nodemon -D
+- express : definicao de rotas
+- get, post, put, delete
+- insominia
 
 :. De Rocketseat - Semana Omnistack 9.0.
 Por Diego Fernandes : https://rocketseat.com.br/week-9/aulas
