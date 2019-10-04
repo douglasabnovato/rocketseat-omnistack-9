@@ -17,7 +17,7 @@
 ![Rocketseat](/images/logo-rocketseat.png)
 
 ### 30/09 : conhecendo a OmniStack 9.0
-- .: descobrir as principais ferramentas do ecossistema e o que nós vamos construir com elas.
+.: descobrir as principais ferramentas do ecossistema e o que nós vamos construir com elas.
 - mockups
 - nodejs with package manage
 - yarn
