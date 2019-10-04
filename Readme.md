@@ -41,5 +41,12 @@ app.post('/users', (req,res) => {
 });
 ````
 
+### 02/10 : 
+
+### 03/10 : 
+
+### 04/10 : 
+
+
 :. De Rocketseat - Semana Omnistack 9.0.<br>
 Por Diego Fernandes : https://rocketseat.com.br/week-9/aulas
