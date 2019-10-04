@@ -41,11 +41,11 @@ app.post('/users', (req,res) => {
 });
 ````
 
-### 02/10 : 
+### 02/10 : Construindo a interface web
 
-### 03/10 : 
+### 03/10 : Desenvolvendo o app mobile  
 
-### 04/10 : 
+### 04/10 : Funcionalidades avançadas
 
 
 :. De Rocketseat - Semana Omnistack 9.0.<br>
