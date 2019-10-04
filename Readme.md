@@ -34,7 +34,8 @@
 - express : definicao de rotas
 - get, post, put, delete
 - insominia
-- ```` 
+- 
+```` 
 app.post('/users', (req,res) => {
     return res.json({message: "Welcome Omnistack 9.0!!"});
 });
