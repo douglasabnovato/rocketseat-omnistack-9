@@ -40,6 +40,11 @@ app.post('/users', (req,res) => {
     return res.json({message: "Welcome Omnistack 9.0!!"});
 });
 ````
+- yarn dev
+- GET, POST, PUT, DELETE
+- req.query = acessar query params (filtros)
+- req. query = acessar route params (edição e deleção)
+
 
 ### 02/10 : Construindo a interface web
 
