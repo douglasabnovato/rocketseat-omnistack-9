@@ -27,7 +27,7 @@
 
 ### 01/10 : Criando a base da aplicação
 .: construir o back-end da sua aplicação: uma API robusta utilizando NodeJS.
-- node src/server.js
+- `node src/server.js`
 - localhost:3333
 - resposta "welcome omnistack 9.0 !"
 - yarn add nodemon -D
@@ -40,11 +40,11 @@ app.post('/users', (req,res) => {
     return res.json({message: "Welcome Omnistack 9.0!!"});
 });
 ````
-- yarn dev
+- `yarn dev`
 - GET, POST, PUT, DELETE
 - req.query = acessar query params (filtros)
-- req. query = acessar route params (edição e deleção)
-
+- req.query = acessar route params (edição e deleção)
+- req.body = acessar corpo da requisição (criação e edição)
 
 ### 02/10 : Construindo a interface web
 
