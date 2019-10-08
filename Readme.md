@@ -47,6 +47,7 @@ app.post('/users', (req,res) => {
 - req.body = acessar corpo da requisição (criação e edição)
 - routes
 - banco de dados : mongoDB
+- mongoose : `yarn add mongoose`
 
 ### 02/10 : Construindo a interface web
 
