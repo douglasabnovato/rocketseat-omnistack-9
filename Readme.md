@@ -45,6 +45,7 @@ app.post('/users', (req,res) => {
 - req.query = acessar query params (filtros)
 - req.query = acessar route params (edição e deleção)
 - req.body = acessar corpo da requisição (criação e edição)
+- backend
 
 ### 02/10 : Construindo a interface web
 
