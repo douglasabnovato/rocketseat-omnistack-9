@@ -48,6 +48,7 @@ app.post('/users', (req,res) => {
 - routes
 - banco de dados : mongoDB
 - mongoose : `yarn add mongoose`
+- 
 
 ### 02/10 : Construindo a interface web
 
