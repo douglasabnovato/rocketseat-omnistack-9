@@ -48,7 +48,11 @@ app.post('/users', (req,res) => {
 - routes
 - banco de dados : mongoDB
 - mongoose : `yarn add mongoose`
-- 
+- layout : página de login do usuário
+- MVC : estrutura de pastas
+models : representação de entidades do tabela no bd<br>
+controllers : controladores da regra de negócios<br>
+views : parte visual da aplicação.
 
 ### 02/10 : Construindo a interface web
 
