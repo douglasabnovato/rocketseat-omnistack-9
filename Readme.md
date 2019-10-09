@@ -49,7 +49,7 @@ app.post('/users', (req,res) => {
 - banco de dados : mongoDB
 - mongoose : `yarn add mongoose`
 - layout : página de login do usuário
-- MVC : estrutura de pastas
+- MVC : estrutura de pastas<br>
 models : representação de entidades do tabela no bd<br>
 controllers : controladores da regra de negócios<br>
 views : parte visual da aplicação.
