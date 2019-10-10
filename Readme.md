@@ -55,7 +55,7 @@ controllers : controladores da regra de negócios
 1. session controller
 2. routes
 3. insomnia : banco de dados
-4. async e await : aguardar resposta de instrução antes de prosseguir 
+4. async e await : aguardar resposta de instrução antes de prosseguir<br> 
 views : parte visual da aplicação.
 - 
 
