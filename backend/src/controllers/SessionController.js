@@ -3,8 +3,7 @@
 const User = require('../models/User');
 
 module.exports = {
-    //async e await quando a função demora, 
-    //e o sistema tem que aguardar antes de ir para a próxima instrução
+    //async e await : aguardar resposta antes de prosseguir
     async store(req, res){
         const { email } = req.body;
 
