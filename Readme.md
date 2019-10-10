@@ -52,6 +52,9 @@ app.post('/users', (req,res) => {
 - MVC : estrutura de pastas<br>
 models : representação de entidades do tabela no bd<br>
 controllers : controladores da regra de negócios<br>
+1. session controller
+2. routes
+3. insomnia : banco de dados
 views : parte visual da aplicação.
 - 
 
