@@ -51,7 +51,7 @@ app.post('/users', (req,res) => {
 - layout : página de login do usuário
 - MVC : estrutura de pastas<br>
 models : representação de entidades do tabela no bd<br>
-controllers : controladores da regra de negócios<br>
+controllers : controladores da regra de negócios
 1. session controller
 2. routes
 3. insomnia : banco de dados
