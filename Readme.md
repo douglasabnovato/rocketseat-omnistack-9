@@ -46,8 +46,8 @@ app.post('/users', (req,res) => {
 - req.query = acessar route params (edição e deleção)
 - req.body = acessar corpo da requisição (criação e edição)
 - routes
-- banco de dados : mongoDB
-- mongoose : `yarn add mongoose`
+- banco de dados : mongoDB atlas cloud : conect your aplication
+- mongoose : `yarn add mongoose` : editar o mongoDB
 - layout : página de login do usuário
 - MVC : estrutura de pastas<br>
 models : representação de entidades do tabela no bd<br>
