@@ -2,6 +2,6 @@
 
 module.exports = {
     store(req, res){
-        return res.json({ message: 'Hello World Omnistack 9.0'})
+        return res.json({ message: 'Rocketseat - Semana Omnistack 9.0'})
     }
 };
