@@ -53,6 +53,7 @@ app.post('/users', (req,res) => {
 models : representação de entidades do tabela no bd<br>
 controllers : controladores da regra de negócios<br>
 views : parte visual da aplicação.
+- 
 
 ### 02/10 : Construindo a interface web
 
