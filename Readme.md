@@ -58,6 +58,7 @@ controllers : controladores da regra de negócios
 4. async e await : aguardar resposta de instrução antes de prosseguir
 5. multer
 6. listagem de spots : rota
+7. booking
 <br> 
 views : parte visual da aplicação.
 
