@@ -1,6 +1,6 @@
 # Rocketseat Semana Omnistack 9.0
 
-## Atualização: 11 de Outubro de 2019 - 12:09
+## Atualização: 14 de Outubro de 2019 - 12:12
 ## Criação: 30 de Setembro de 2019
 ## Prática : @douglasabnovato
 
