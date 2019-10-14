@@ -51,16 +51,15 @@ app.post('/users', (req,res) => {
 - layout : página de login do usuário
 - MVC : estrutura de pastas<br>
 models : representação de entidades do tabela no bd<br>
-controllers : controladores da regra de negócios
+controllers : controladores da regra de negócios<br> 
+views : parte visual da aplicação.
+- itens relevantes :
 1. session controller
 2. routes
 3. insomnia : banco de dados
 4. async e await : aguardar resposta de instrução antes de prosseguir
 5. multer
-6. listagem de spots : rota
-7. booking
-<br> 
-views : parte visual da aplicação.
+6. Session , Spot , Dashboard, Booking
 
 ### 02/10 : Construindo a interface web
 
