@@ -56,10 +56,15 @@ views : parte visual da aplicação.
 - itens relevantes :
 1. session controller
 2. routes
-3. insomnia : banco de dados
+3. insomnia : testes de banco de dados
 4. async e await : aguardar resposta de instrução antes de prosseguir
 5. multer
 6. Session , Spot , Dashboard, Booking
+- insomnia :
+1. Session: Post - Store
+2. Spot: Post - Store, Get - Index
+3. Dashboard: Get - Show
+4. Booking: Post - Store
 
 ### 02/10 : Construindo a interface web
 
