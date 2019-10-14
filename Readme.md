@@ -69,7 +69,8 @@ views : parte visual da aplicação.
 
 ### 02/10 : Construindo a interface web
 .: construir o front-end web com ReactJs.
-
+- babel - comunicação com o browser
+- `yarn create react-app frontend`
 
 ### 03/10 : Desenvolvendo o app mobile  
 
