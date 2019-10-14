@@ -59,7 +59,6 @@ controllers : controladores da regra de negócios
 5. multer
 6. listagem de spots : rota
 <br> 
-parei 01:18:52
 views : parte visual da aplicação.
 
 ### 02/10 : Construindo a interface web
