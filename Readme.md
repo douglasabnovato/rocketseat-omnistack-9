@@ -26,7 +26,7 @@
 - "ver dual boot"
 
 ### 01/10 : Criando a base da aplicação
-.: construir o back-end da sua aplicação: uma API robusta utilizando NodeJS.
+.: construir o back-end da sua aplicação: uma API REST robusta utilizando NodeJS.
 - `node src/server.js`
 - localhost:3333
 - resposta "welcome omnistack 9.0 !"
@@ -68,6 +68,8 @@ views : parte visual da aplicação.
 - erro : booking no insomnia não está registrando
 
 ### 02/10 : Construindo a interface web
+.: construir o front-end web com ReactJs.
+
 
 ### 03/10 : Desenvolvendo o app mobile  
 
