@@ -1,5 +1,4 @@
-# Semana Omnistack 9.0 - Rocketseat 
-### Projeto em JavaScript, ES6, NodeJS, ReactJS, ReactNative na Semana Omnistack-9 da Rocketseat.
+# Semana Omnistack 9.0 - Rocketseat : JavaScript, ES6, NodeJS, ReactJS, ReactNative
 
 ## Atualização: 14 de Outubro de 2019 - 12:12
 ## Criação: 30 de Setembro de 2019
