@@ -65,6 +65,7 @@ views : parte visual da aplicação.
 2. Spot: Post - Store, Get - Index
 3. Dashboard: Get - Show
 4. Booking: Post - Store
+- erro : booking no insomnia não está registrando
 
 ### 02/10 : Construindo a interface web
 
