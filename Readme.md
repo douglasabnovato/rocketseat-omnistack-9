@@ -1,10 +1,10 @@
 # Semana Omnistack 9.0 - Rocketseat : JavaScript, ES6, NodeJS, ReactJS, ReactNative
 
-## Atualização: 14 de Outubro de 2019 - 15:14
-## Criação: 30 de Setembro de 2019
-## Prática : @douglasabnovato
+### Atualização: 13 de janeiro de 2020 - 18:32
+### Criação: 30 de Setembro de 2019
+### Prática : @douglasabnovato
 
-## Ferramentas : 
+### Ferramentas : 
 
 ![ReactJS](/images/logo-reactjs.jpg)
 ![React Native](/images/logo-react-native.png)
@@ -16,7 +16,7 @@
 ![Nodejs](/images/nodejs.png)
 ![Rocketseat](/images/logo-rocketseat.png)
 
-### 30/09 : conhecendo a OmniStack 9.0
+#### 30/09 : conhecendo a OmniStack 9.0
 .: descobrir as principais ferramentas do ecossistema e o que nós vamos construir com elas.
 - mockups
 - nodejs with package manage
@@ -25,7 +25,7 @@
 - vs code: dracula
 - "ver dual boot"
 
-### 01/10 : Criando a base da aplicação
+#### 01/10 : Criando a base da aplicação
 .: construir o back-end da sua aplicação: uma API REST robusta utilizando NodeJS.
 - `node src/server.js`
 - localhost:3333
@@ -67,14 +67,14 @@ views : parte visual da aplicação.
 4. Booking: Post - Store
 - erro : booking no insomnia não está registrando
 
-### 02/10 : Construindo a interface web
+#### 02/10 : Construindo a interface web
 .: construir o front-end web com ReactJs.
 - babel - comunicação com o browser
 - `yarn create react-app frontend`
 
-### 03/10 : Desenvolvendo o app mobile  
+#### 03/10 : Desenvolvendo o app mobile  
 
-### 04/10 : Funcionalidades avançadas
+#### 04/10 : Funcionalidades avançadas
 
 :. De Rocketseat - Semana Omnistack 9.0.<br>
 Por Diego Fernandes : https://rocketseat.com.br/week-9/aulas
