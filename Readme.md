@@ -1,6 +1,6 @@
 # Semana Omnistack 9.0 - Rocketseat : JavaScript, ES6, NodeJS, ReactJS, ReactNative
 
-### Atualização: 13 de janeiro de 2020 - 18:32
+### Atualização: 13 de janeiro de 2020 - 19:31
 ### Criação: 30 de Setembro de 2019
 ### Prática : @douglasabnovato
 
