@@ -7,13 +7,12 @@
 
 #### Criando a base da aplicação
 - [x] construir o back-end da sua aplicação
-- [x] api rest: um backend separado do frontend
-- [x] `npm add express` 
-- localhost:3333 
-- yarn add nodemon -D
-- express : definicao de rotas
-- get, post, put, delete
-- insominia
+- [x] api rest: um backend separado do frontend 
+- [x] `npm add express` - localhost:3333 
+- [x] `npm install nodemon -D` - reiniciar servidor node a cada alteração
+- [x] `npm run serve` - coloca o servidor para rodar com o nodemon
+- [x] insominia: get, post, put, delete
+- 
 - POST
 ```` 
 
