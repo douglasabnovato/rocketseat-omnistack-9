@@ -8,6 +8,8 @@ Um módulo para a empresa cadastrar seus espaços. E o outro módulo para quem e
 - [x] Aplicação que será desenvolvida
 - [x] Tecnologias utilizadas
 - [x] Configuração de Ambiente
+- [x] Npm, Node, Yarn
+- [x] Dracula Oficial, Material Icon Theme, Rocketseat Reactjs, Fira Code
 
 #### Criando a base da aplicação
 - [x] construir o back-end da sua aplicação
@@ -18,7 +20,7 @@ Um módulo para a empresa cadastrar seus espaços. E o outro módulo para quem e
 - [x] insominia: get, post, put, delete : testar APIs
 - [x] banco de dados: mongoDB atlas cloud : conect your aplication
 - [x] mongoose : `yarn add mongoose` : editar o mongoDB 
-- [x] MVC : estrutura de pastas  
+- [x] MVC : estrutura de pastas 
 
 #### 02/10 : Construindo a interface web 
 
