@@ -1,9 +1,6 @@
-// index, show, store, update, destroy
-
 const User = require('../models/User');
 
-module.exports = {
-    //async e await : aguardar resposta antes de prosseguir
+module.exports = { 
     async store(req, res){
         const { email } = req.body;
 
