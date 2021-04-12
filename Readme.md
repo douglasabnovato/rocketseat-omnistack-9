@@ -15,12 +15,12 @@ Um módulo para a empresa cadastrar seus espaços. E o outro módulo para quem e
 - [x] construir o back-end da sua aplicação
 - [x] api rest: um backend separado do frontend 
 - [x] `npm add express` - localhost:3333 : rotas
-- [x] `npm install nodemon -D` - reiniciar servidor node a cada alteração
+- [x] `npm install nodemon -D` - reiniciar servidor node a cada alteração : error
 - [x] `yarn dev` - rodar aplicação com o nodemon - `npm run dev`: error
 - [x] insominia: get, post, put, delete : testar APIs
 - [x] banco de dados: mongoDB atlas cloud : conect your aplication
 - [x] mongoose : `yarn add mongoose` : editar o mongoDB 
-- [x] MVC : estrutura de pastas 
+- [x] Partner - MVC : estrutura de pastas 
 
 #### 02/10 : Construindo a interface web 
 

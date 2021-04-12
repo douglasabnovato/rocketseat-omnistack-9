@@ -12,4 +12,15 @@ mongoose.connect('mongodb+srv://dbAircnc:douglas1234@cluster0.yg58x.mongodb.net/
 app.use(express.json());
 app.use(routes);
 
-app.listen(3333);
+app.listen(3333); 
+
+/** configuração funcionando
+
+const express = require('express');
+const app = express();
+
+app.get('/', (req, res) => {
+    return res.json({ message: "Hello World."})
+});
+
+app.listen(3333);*/
