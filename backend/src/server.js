@@ -14,7 +14,7 @@ app.use(routes);
 
 app.listen(3333); 
 
-/** configuração funcionando
+/** configuração inicial funcionando
 
 const express = require('express');
 const app = express();

@@ -8,13 +8,13 @@ Um módulo para a empresa cadastrar seus espaços. E o outro módulo para quem e
 - [x] Aplicação que será desenvolvida
 - [x] Tecnologias utilizadas
 - [x] Configuração de Ambiente
-- [x] Npm, Node, Yarn
-- [x] Dracula Oficial, Material Icon Theme, Rocketseat Reactjs, Fira Code
+- [x] Npm[6.14.6], Node[14.16.1], Yarn[1.22.10]
+- [x] VSCode, Drácula Oficial, Material Icon Theme, Rocketseat Reactjs, Fira Code
 
 #### Criando a base da aplicação
 - [x] construir o back-end da sua aplicação
 - [x] api rest: um backend separado do frontend 
-- [x] `npm add express` - localhost:3333 : rotas
+- [x] `yarn add express` ou `npm add express` - localhost:3333 : rotas
 - [x] `npm install nodemon -D` - reiniciar servidor node a cada alteração : error
 - [x] `yarn dev` - rodar aplicação com o nodemon - `npm run dev`: error
 - [x] insominia: get, post, put, delete : testar APIs
