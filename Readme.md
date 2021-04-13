@@ -22,7 +22,9 @@ Um módulo para a empresa cadastrar seus espaços. E o outro módulo para quem e
 - [x] mongoose : `yarn add mongoose` : editar o mongoDB 
 - [x] Partner - MVC : estrutura de pastas 
 
-#### 02/10 : Construindo a interface web 
+#### Construindo a interface web 
+- [x] criar o projeto: `yarn create react-app frontend` 
+- [x] rodar a aplicação frontend: `yarn run start`
 
 #### 03/10 : Desenvolvendo o app mobile  
 
